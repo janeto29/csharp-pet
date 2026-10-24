@@ -1,0 +1,9 @@
+D:\Downloads\Programação\PROGRAMACO FULL STACKER 2026\Codificação para BackEnd\CSHARP-VF\LHPetsMais\obj\Debug\net9.0\LHPetsMais.csproj.AssemblyReference.cache
+D:\Downloads\Programação\PROGRAMACO FULL STACKER 2026\Codificação para BackEnd\CSHARP-VF\LHPetsMais\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\Downloads\Programação\PROGRAMACO FULL STACKER 2026\Codificação para BackEnd\CSHARP-VF\LHPetsMais\obj\Debug\net9.0\LHPetsMais.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Programação\PROGRAMACO FULL STACKER 2026\Codificação para BackEnd\CSHARP-VF\LHPetsMais\obj\Debug\net9.0\LHPetsMais.AssemblyInfoInputs.cache
+D:\Downloads\Programação\PROGRAMACO FULL STACKER 2026\Codificação para BackEnd\CSHARP-VF\LHPetsMais\obj\Debug\net9.0\LHPetsMais.AssemblyInfo.cs
+D:\Downloads\Programação\PROGRAMACO FULL STACKER 2026\Codificação para BackEnd\CSHARP-VF\LHPetsMais\obj\Debug\net9.0\LHPetsMais.csproj.CoreCompileInputs.cache
+D:\Downloads\Programação\PROGRAMACO FULL STACKER 2026\Codificação para BackEnd\CSHARP-VF\LHPetsMais\obj\Debug\net9.0\LHPetsMais.MvcApplicationPartsAssemblyInfo.cs
+D:\Downloads\Programação\PROGRAMACO FULL STACKER 2026\Codificação para BackEnd\CSHARP-VF\LHPetsMais\obj\Debug\net9.0\LHPetsMais.MvcApplicationPartsAssemblyInfo.cache
+D:\Downloads\Programação\PROGRAMACO FULL STACKER 2026\Codificação para BackEnd\CSHARP-VF\LHPetsMais\obj\Debug\net9.0\LHPetsMais.sourcelink.json

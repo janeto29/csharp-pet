@@ -1,0 +1,6 @@
+@LHPetsMais_HostAddress = http://localhost:5286
+
+GET {{LHPetsMais_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
